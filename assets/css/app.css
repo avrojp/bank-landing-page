@@ -533,6 +533,7 @@ section.hero-section {
     border: none;
     border-radius: 2em;
     resize: none;
+    color: whitesmoke;
 }
 
 .subscription-confirm {
